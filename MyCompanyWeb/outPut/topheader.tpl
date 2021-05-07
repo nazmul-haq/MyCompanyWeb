@@ -1,4 +1,5 @@
-<nav class="navbar navbar-default main-menu topmenubar">
+<!-- top menu - start -->
+		<nav class="navbar navbar-default main-menu topmenubar">
 			<div class="container mobheight">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
@@ -10,24 +11,25 @@
 							<span class="burger-menu-piece"></span>
 						</div>
 					</div>
-					<a class="navbar-brand logo" href="http://mcw.skynethosting.net/index.html" style="pointer-events: auto;"><img class="img-responsive" src="https://mycompanyweb.us/img/logo.png" alt="">
+					<a class="navbar-brand logo" href="http://suninhost.com/index.html"><img class="img-responsive" src="https://mycompanyweb.us/img/logo.png" alt="">
 					</a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse upperMenu" id="bs-example-navbar-collapse-11">
 					<ul class="nav navbar-nav menuClass">
-						<li><a href="http://mcw.skynethosting.net/index.html">Home88</a></li>
-						<li><a href="http://mcw.skynethosting.net/whmcs/cart.php" style="pointer-events: auto;">Web Hosting</a>
+						<li><a href="http://suninhost.com/index.html">Home</a>
 						</li>
-						<li><a href="http://mcw.skynethosting.net/index.html#looking-for-different" data-base="http://mcw.skynethosting.net" style="pointer-events: auto;">Reseller</a></li>
-						<li><a href="http://mcw.skynethosting.net/index.html#looking-for-different" data-base="http://mcw.skynethosting.net " style="pointer-events: auto;">Dedicated</a>
+						<li><a href="http://suninhost.com/my/cart.php">Web Hosting</a>
 						</li>
-						<li><a href="http://mcw.skynethosting.net/index.html#looking-for-different" data-base="http://mcw.skynethosting.net " style="pointer-events: auto;">VPS</a>
+						<li><a href="http://suninhost.com/index.html#looking-for-different" data-base="http://suninhost.com">Reseller</a></li>
+						<li><a href="http://suninhost.com/index.html#looking-for-different" data-base="http://suninhost.com ">Dedicated</a>
 						</li>
-						<li><a href="http://mcw.skynethosting.net/whmcs/domainchecker.php" style="pointer-events: auto;">Domain</a>
+						<li><a href="http://suninhost.com/index.html#looking-for-different" data-base="http://suninhost.com ">VPS</a>
 						</li>
-						<li><a href="http://mcw.skynethosting.net/index.html#company-web" style="pointer-events: auto;">Why Us</a>
+						<li><a href="http://suninhost.com/my/domainchecker.php">Domain</a>
+						</li>
+						<li><a href="http://suninhost.com/index.html#company-web">Why Us</a>
 						</li>
 					</ul>
 				</div>
@@ -35,3 +37,4 @@
 			</div>
 			<!-- /.container-->
 		</nav>
+		<!-- top menu - end -->
